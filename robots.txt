@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ordisidgr.github.io/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/app/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/assets/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/css/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/includes/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/item/sitemap.html.gz
+Sitemap: https://ordisidgr.github.io/src/sitemap.html.gz
